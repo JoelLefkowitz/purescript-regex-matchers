@@ -1,0 +1,28 @@
+{
+  "name": "purescript-regex-matchers",
+  "version": "0.1.0",
+  "description": "Regular expression matchers.",
+  "homepage": "https://github.com/JoelLefkowitz/purescript-regex-matchers",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoelLefkowitz/purescript-regex-matchers"
+  },
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "output",
+    "test",
+    "bower.json",
+    "package.json"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^5.0.1"
+  },
+  "devDependencies": {
+    "purescript-assert": "^5.0.0",
+    "purescript-debug": "^5.0.0",
+    "purescript-psci-support": "^5.0.0"
+  }
+}

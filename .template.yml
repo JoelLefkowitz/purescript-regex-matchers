@@ -1,0 +1,30 @@
+collections:
+  - common
+  - purescript
+
+excludes:
+  - .cspell.json
+  - README.md
+  - bower.json
+  - package.json
+  - spago.dhall
+
+render_context:
+  project:
+    name: purescript-regex-matchers
+    description: Regular expression matchers.
+    version: 0.1.0
+    verbose_name: PureScript Regex Matchers
+    repository: https://github.com/JoelLefkowitz/purescript-regex-matchers
+    codacy_id: 832de31fc4a044a19f4104b02f21a375
+
+  author:
+    author: joellefkowitz
+    author_email: joellefkowitz@hotmail.com
+    verbose_author: Joel Lefkowitz
+
+clear_top_level: true
+logical_grouping: true
+
+loader_paths:
+  - docs

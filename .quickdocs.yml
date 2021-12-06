@@ -1,0 +1,7 @@
+project: purescript-regex-matchers
+version: 0.1.0
+author: Joel Lefkowitz
+verbose_name: PureScript Regex Matchers
+html_title: PureScript Regex Matchers
+github_url: https://github.com/JoelLefkowitz/purescript-regex-matchers
+apidoc_module_dir: src
